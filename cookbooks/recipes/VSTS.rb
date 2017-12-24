@@ -1,3 +1,7 @@
+# Auther: Marcus Felling
+# Cookbook:: buildserver
+# Recipe:: vsts
+
 ##############################
 # Install and register agents
 ##############################
