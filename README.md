@@ -1,4 +1,4 @@
-## Packer and Chef scripts to create a VSTS build server (Windows) golden image (AMI)
+## Packer and Chef scripts to create a Azure DevOps build server (Windows) golden image (AMI)
 
 Order of execution:
 1. `berks vendor` to pull in dependancies
